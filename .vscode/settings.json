@@ -1,0 +1,4 @@
+{
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "vscode-w3cvalidation.trace.server": "messages"
+}
